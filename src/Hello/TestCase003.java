@@ -23,3 +23,4 @@ public class TestCase003 {
 
 //more changes from Github.com
 
+//// changes from Locale 2
