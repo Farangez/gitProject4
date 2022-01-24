@@ -10,5 +10,8 @@ public class TestCase003 {
     // step 2
 
     // step 3
-//this if combined from 2
+//this is combined from 2
+    
 }
+
+//This is the changes from GitHub.com
